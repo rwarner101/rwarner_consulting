@@ -9,7 +9,7 @@ function About() {
       <SectionHeading
         eyebrow="About"
         title="Experienced engineering leadership, applied where it matters most"
-        description="rjwConsulting helps growing organizations build strong engineering teams, reliable hiring practices, and development habits that scale."
+        description="Warner Engineering Advisory helps growing organizations build strong engineering teams, reliable hiring practices, and development habits that scale."
       />
 
       <div className="space-y-5 text-base leading-8 text-stone-300">

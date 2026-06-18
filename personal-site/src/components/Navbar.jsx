@@ -19,7 +19,7 @@ function Navbar() {
             href="#top"
             onClick={() => setIsOpen(false)}
           >
-            <span className="italic">rjw</span>Consulting
+            <span className="italic">Warner Engineering Advisory</span>
           </a>
 
           <button

@@ -3,21 +3,28 @@ import heroImage from '../assets/hero.png'
 function Hero() {
   return (
     <section className="grid gap-12 lg:grid-cols-[1.2fr_0.8fr] lg:items-end">
-      <div className="space-y-8">
+      <div className="space-y-4">
         <div className="space-y-4">
-          <h1 className="max-w-3xl text-5xl font-semibold tracking-tight text-white sm:text-6xl">
-            <span className="brand-glow">
-              <span className="italic">rjw</span>Consulting
-            </span>
-          </h1>
           <p className="max-w-2xl text-lg leading-8 text-stone-300">
-            Build the engineering team your business needs next.
+		  	Growing engineering organizations eventually reach a point where informal hiring, ad hoc management, 
+			and inconsistent development practices begin to limit growth.
+
           </p>
           <p className="max-w-2xl text-base leading-8 text-stone-400">
-            Practical consulting for recruiting, interview design, development
-            process, and early mentorship from a software leader with 25+ years
-            in development and 15+ years leading high performance teams.
+		  	I help organizations establish the people, processes, and leadership needed to build effective engineering 
+			teams through structured recruiting, interview process design, leadership development, 
+			and scalable delivery practices.
+		  </p>
+		  <p className="max-w-2xl text-base leading-8 text-stone-400">
+		  	The result is stronger hiring decisions, more capable leaders, and engineering organizations 
+			that can grow without sacrificing quality, culture, or execution.
           </p>
+		  <p className="max-w-2xl text-base leading-8 text-stone-400">
+		  	25+ years in software engineering • 15+ years leading engineering teams.
+		  </p>
+		  <p className="max-w-2xl text-base leading-8 text-stone-400">
+		  	Former Amazon engineering leader.
+		  </p>
         </div>
 
         <div className="flex flex-wrap gap-3">

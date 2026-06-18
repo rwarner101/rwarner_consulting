@@ -9,14 +9,14 @@ function Contact() {
       <SectionHeading
         eyebrow="Contact"
         title="Ready to strengthen your engineering team?"
-        description="Reach out to discuss recruiting, interview process, development process, or early leadership mentorship for your team."
+		description="Reach out to conduct an engineering team scale assesment, which includes hiring and interview process assesment, leadership capability assesment and engineering process review. Deliverables: findings repport, recommentations and 90-day action plan."
       />
 
       <a
         className="inline-flex items-center justify-center rounded-full bg-amber-300 px-6 py-3 text-sm font-medium text-stone-950 transition hover:bg-amber-200"
-        href="mailto:hello@rjwconsulting.com"
+        href="mailto:robert@warnerengineeringadvisory.com"
       >
-        hello@rjwconsulting.com
+        robert@warnerengineeringadvisory.com
       </a>
     </section>
   )

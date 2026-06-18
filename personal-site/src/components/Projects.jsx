@@ -3,29 +3,23 @@ import SectionHeading from './SectionHeading'
 
 const projects = [
   {
-    title: 'Recruiting',
-    description:
-      'Clarify the roles you need, define a consistent hiring bar, and build a practical recruiting motion that attracts the right engineering talent.',
-    tags: ['Role definition', 'Hiring bar', 'Pipeline'],
+    title: 'Build the Team',
+	description: 
+	  'Define a recruitinng strategy, that includes sourcing candidates that raise the bar, and defines repeatable hiring frameworks.',
+    tags: ['Recruiting strategy', 'Candidate Sourcing', 'Hiring Frameworks'],
   },
   {
-    title: 'Interview Process',
-    description:
-      'Design interview loops, rubrics, and decision practices informed by more than 100 interviews at Amazon alone.',
-    tags: ['Interview loops', 'Rubrics', 'Calibration'],
+    title: 'Develop Leaders',
+	description:
+	  'Leadership mentoring that includes helping engineers and new manager coaching increasing the team effectiveness.',
+    tags: ['Mentoring', 'Leadership Practices', 'Team Effectiveness'],
   },
   {
-    title: 'Development Process',
+    title: 'Scale the Organization',
     description:
-      'Implement lightweight planning, delivery, and feedback rituals that help teams execute with focus while preserving engineering quality.',
+      'Define and implement the Engineering process and establish quality delivery practices that feed the organizational design.',
     tags: ['Planning', 'Delivery', 'Quality'],
-  },
-  {
-    title: 'Initial Mentorship',
-    description:
-      'Support managers, technical leads, and early team members as they establish expectations, communication habits, and leadership practices.',
-    tags: ['Managers', 'Tech leads', 'Coaching'],
-  },
+  }
 ]
 
 function Projects() {
