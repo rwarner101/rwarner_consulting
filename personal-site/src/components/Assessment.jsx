@@ -25,7 +25,7 @@ function Assessment() {
     <section id="assessment" className="scroll-mt-28 space-y-8">
       <SectionHeading
         eyebrow="Assessment"
-        title="Engineering Team Scaling Assessment"
+        title="Engineering Organization Assessment"
         description="A focused assessment designed to help growing organizations improve hiring, leadership effectiveness, and engineering execution."
       />
 

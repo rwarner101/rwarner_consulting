@@ -9,7 +9,7 @@ function Contact() {
       <SectionHeading
         eyebrow="Contact"
         title="Ready to strengthen your engineering team?"
-		description="Reach out to conduct an engineering team scale assesment, which includes hiring and interview process assesment, leadership capability assesment and engineering process review. Deliverables: findings repport, recommentations and 90-day action plan."
+		description="Let's discuss your hiring practices, leadership development, and engineering processes."
       />
 
       <a
